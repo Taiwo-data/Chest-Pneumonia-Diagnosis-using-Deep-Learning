@@ -73,7 +73,7 @@ Dataset link: [Mendeley Data](https://data.mendeley.com/datasets/rscbjbr9sj/2)
 ---
 
 ## Preprocessing
-- **Resizing:** 224Ã—224 pixels  
+- **Resizing:** 224—224 pixels  
 - **Normalization:** Model-specific scaling  
 - **Noise reduction:** Gaussian filter  
 - **Contrast Enhancement:** CLAHE (Contrast Limited Adaptive Histogram Equalization)  
